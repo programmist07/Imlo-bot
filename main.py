@@ -5,7 +5,7 @@ from aiogram.types import Message
 from checkWord import chechWord
 import asyncio
 
-API_token = '8016762769:AAHDtOi6gOhLJlDiacQE5QN8XdTvHRooY6U'
+API_token = 'TOKEN HERE'
 
 logging.basicConfig(level=logging.INFO)
 
